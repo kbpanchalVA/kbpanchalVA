@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kbpanchalVA
+- 👋 Hi, I’m kbpanchalVA
 - 👀 I’m interested in ... AWS Cloud Soltutions
 - 🌱 I’m currently learning ... learning AWS Cloud Practiitioner
 - 💞️ I’m looking to collaborate on ...
